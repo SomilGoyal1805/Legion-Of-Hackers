@@ -429,6 +429,21 @@ html{
 /* https://wallpaperaccess.com/full/4774556.jpg */
 
 
+.backtotop{
+  
+  
+  background-image: url("images/backtotop.png");
+  border:none;
+  width: 5%;
+  height: 5%;
+  bottom : 10px;
+         float: right;
+         right: 10%;
+         left: 90%;
+         bottom: 10%;
+  position: fixed;
+  z-index: 10;
+}
 
 
 
