@@ -113,6 +113,7 @@ body {
 }
 .box:hover {
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    transform: scale(1.05);
 }
 
 .header{
@@ -133,8 +134,102 @@ body {
    word-wrap: normal;
    color: black;
    text-align: center;
+}
+
+.readmore{
+  width: 70%;
+  margin-top: 40px;
+  margin-left: 15%;
+  margin-bottom: 10px;
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding:5px;
+}
+
+.readmore:hover{
+  background-color:grey;
+  color: white;
+  transition: .5s;
+  cursor: pointer;
+}
+.myDialog{
+  margin:auto;
+  background-color:#1b77a5 ;
+  width: 90%;
+  height: auto;
+  overflow: auto;
+  transition: 200ms ease-in-out;
+}
+
+.dialogHeader {
+
+  font-size: 10px;
+  padding: 10px 15px;
+  display: flex;
+  justify-content:space-between;
+  text-align: center;
+  border-bottom: 1px solid green;
+}
+
+
+
+.title{
+  font-size: 1.25rem;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+  
+  
+}
+
+.close-button {
+  
+  cursor: pointer;
+  background-color:transparent;
+  border: none;
+  outline: none;
+  background: none;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.content{
+   color: white;
+   font-size: 25px; 
+   text-align: center;
+   word-wrap: normal;
+   padding: 2%;
 
 }
+
+.img{
+  text-align: center;
+
+}
+
+.foot{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  text-align: center;
+}
+.how{color: white;
+  margin-left: 10%;
+  width: 100%;
+  height: auto;
+  text-align: center;
+}
+
+.map{
+  text-align: center;
+  width: 100%;
+  height: auto;
+  padding: 2px;
+  margin:2px;
+  margin-left:20%; 
+}
+
 .logo img{
   background-image:  url(images/allahabad1.jpg) ;
 }
@@ -275,38 +370,6 @@ body {
 
   background-size: cover; 
   background-repeat: no-repeat;
-}
-html{
-  scroll-behavior: smooth;
-}
-.special {
-  display: grid;
-  place-items: center;
-  grid-template-columns: 1fr 1fr;
-  width: 100%;
-  height: auto;
-  position: relative;
-  margin-top: 0%;
-  margin-bottom: 0%;
-}
-.special img{
- width: 70%;
- margin-top:36%;
- margin-right: -28%;
- border: 2px solid black;
-}
-.special h1{
- margin-top: 0.8%;
- font-size: 400%;
- margin-left: 10%;
- margin-bottom: 5%;
- text-decoration: underline;
-}
-.special div{
- margin-top: -35%;
- font-size: 140%;
- text-align: center;
- margin-right: -9rem;
 }
 
 
