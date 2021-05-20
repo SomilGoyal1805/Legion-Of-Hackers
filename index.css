@@ -194,9 +194,9 @@ body {
   color: black;
   /* color: white; */
   text-align: center;
-  
-  
-}
+   padding-left: 35%;
+  padding-top: 1%;
+  }
 
 .close-button {
   
@@ -427,11 +427,11 @@ html{
 }
 /* "images/bg image.jpg" */
 /* https://wallpaperaccess.com/full/4774556.jpg */
-
-
+.backtotop button{
+  width: 1000px;
+  height: 100px;
+}
 .backtotop{
-  
-  
   background-image: url("images/backtotop.png");
   border:none;
   width: 5%;
