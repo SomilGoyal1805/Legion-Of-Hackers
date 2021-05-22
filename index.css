@@ -5,10 +5,7 @@
 }
 body {
     font-family: "Lato", sans-serif;
-    background: url("https://wallpaperaccess.com/full/4774556.jpg ");
-    
-     /* background-color: #7ac4b2; */
-   
+    background: url("https://wallpaperaccess.com/full/4774556.jpg ");   
       background-size: cover;
       background-position: center;
       
@@ -37,7 +34,6 @@ body {
   }
   
   .topnav a:hover {
-    /* background-color: rgb(252, 246, 246); */
     background-color: rgb(194, 138, 74);
     color: black;
   }
@@ -109,7 +105,6 @@ body {
 
 .flex-container .box {
   background-color: rgb(222, 236, 184);
-  /* background-color: rgb(255, 255, 255); */
   width: 20%;
   margin: 20px;
   text-align: center;
@@ -154,7 +149,6 @@ body {
   margin-left: 15%;
   margin-bottom: 10px;
   background-color:rgb(192, 223, 219);
-  /* background-color:WHITE; */
   border: 1px solid black;
   border-radius: 5px;
   padding:5px;
@@ -162,8 +156,6 @@ body {
 
 .readmore:hover{
   background-color:rgb(184, 107, 45);
-  /* background-color:rgb(126, 115, 14); */
-  /* background-color:grey; */
   color: white;
   transition: .3s;
   cursor: pointer;
@@ -171,7 +163,6 @@ body {
 .myDialog{
   margin:auto;
   background-color:#f1dfac ;
-  /* background-color:#1b77a5 ; */
   width: 90%;
   height: auto;
   overflow: auto;
@@ -186,7 +177,6 @@ body {
   justify-content:space-between;
   text-align: center;
   border-bottom: 2px solid black;
-  /* border-bottom: 1px solid green; */
 }
 
 
@@ -195,7 +185,6 @@ body {
   font-size: 1.25rem;
   font-weight: bold;
   color: black;
-  /* color: white; */
   text-align: center;
   padding-left: 35%;
   padding-top: 1%;
@@ -229,7 +218,6 @@ body {
 
 .content{
    color:black;
-   /* color:WHITE; */
    font-size: 25px; 
    text-align: center;
    word-wrap: normal;
@@ -249,7 +237,6 @@ body {
   text-align: center;
 }
 .how{color: black;
-/* color: white; */
   margin-left: 10%;
   margin-top: 2%;
   font-size: 18px;
@@ -271,11 +258,7 @@ body {
 }
 .headingTimeline{
   margin-top: 7%;
-  /* margin-left: 40%;
-  margin-bottom: 7%; */
   text-align: center;
-  /* font-family: "Lato", sans-serif;
-   */
    font-family: 'Headland One', serif;
    text-decoration: underline;
   font-size: 50px;
@@ -450,8 +433,6 @@ html{
  text-align: center;
  margin-right: -9rem;
 }
-/* "images/bg image.jpg" */
-/* https://wallpaperaccess.com/full/4774556.jpg */
 .backtotop button{
   width: 1000px;
   height: 100px;
