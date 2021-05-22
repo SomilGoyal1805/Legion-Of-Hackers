@@ -20,6 +20,9 @@ document.querySelectorAll(".readmore")[5].addEventListener("click", function(){
 document.querySelectorAll(".readmore")[6].addEventListener("click", function(){
   document.querySelectorAll("dialog")[6].showModal();
 });
+document.querySelectorAll(".readmore")[7].addEventListener("click", function(){
+  document.querySelectorAll("dialog")[7].showModal();
+});
 document.querySelectorAll(".close-button")[0].addEventListener("click", function(){
   document.querySelectorAll("dialog")[0].close();
 });
@@ -40,4 +43,8 @@ document.querySelectorAll(".close-button")[5].addEventListener("click", function
 });
 document.querySelectorAll(".close-button")[6].addEventListener("click", function(){
   document.querySelectorAll("dialog")[6].close();
+})
+
+document.querySelectorAll(".close-button")[7].addEventListener("click", function(){
+  document.querySelectorAll("dialog")[7].close();
 })
