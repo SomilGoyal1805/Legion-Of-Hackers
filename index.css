@@ -365,7 +365,7 @@ body {
  font-weight: bold;
 }
 .timeline ul li:nth-child(1)::before{
-  background-image: url(images/pillarsOfAshoka.jpg);
+  background-image: url(pillarsOfAshoka.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
