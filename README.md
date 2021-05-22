@@ -7,7 +7,10 @@
 <p>The website is a comprehensive guide about the city of Prayagraj related to tourist spots, special attractions ( kumbh) and about the rich educational heritage and the city’s historical value. We are going to provide detailed information about the places to visit and things to do and know about Prayagraj.</p>
 
 ## Website Link:
-<a>https://somilgoyal1805.github.io/Legion-Of-Hackers/</a>
+<a href="https://somilgoyal1805.github.io/Legion-Of-Hackers/">Allahabad Tourism</a>
+
+## PPT of project:
+<a href="https://mnnitedu-my.sharepoint.com/:p:/g/personal/amrit_20204023_mnnit_ac_in/Ed1T5JQ3uxVFimcjBuiv4yUBQSl4ZHO0E5Uxh-RADep6zA?e=Rmzsan">PPT link: </a>
   
 ## Table of Contents:
   1) About Allahabad
